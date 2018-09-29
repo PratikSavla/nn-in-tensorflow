@@ -1,4 +1,4 @@
-# neural_nets_in_python
+# neural networks in tensorflow
 Implementation of neural networks in python 
 
 Requirements:
