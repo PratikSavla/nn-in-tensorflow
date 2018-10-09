@@ -1,10 +1,10 @@
 # neural networks in tensorflow
 Implementation of neural networks in python 
 
-Requirements:
-Tensorflow
-Numpy
-Scikit learn
+### Requirements:
+1. Tensorflow
+2. Numpy
+3. Scikit learn
 
 xor_tf.py is example of xor gate neural network using tensorflow in python
 
